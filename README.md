@@ -9,16 +9,16 @@ Link dos dados: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?r
 
 ## Como usar
 Clone o repositório:
-´´´bash
+```bash
 git clone https://github.com/seu-usuario/house_rocket.git
-´´´
+```
 Navegue até o diretório do projeto:
-´´´bash
+```bash
 cd house_rocket
-´´´
+```
 
 Execute o script para realizar a análise:
-´´´bash
+```bash
 jupyter notebook
-´´´
+```
 Abra o notebook house_rocket_analysis.ipynb e execute as células para ver a análise completa.
